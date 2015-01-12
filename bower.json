@@ -13,12 +13,10 @@
   ],
   "main": [
     "./dist/js/bootstrap-multiselect.js",
-    "./dist/css/bootstrap-multiselect.css",
-    "./dist/less/bootstrap-multiselect.less"
+    "./dist/css/bootstrap-multiselect.css"
   ],
   "dependencies": {
-    "jquery": ">= 1.11.0",
-    "bootstrap": ">= 2.3.2"
+    "jquery": ">= 1.11.0"
   },
   "ignore": [
     "docs/.*",
